@@ -1,4 +1,4 @@
-## Privacy Policy for HackerTV
+# Privacy Policy for HackerTV
 
 ***Last Updated: August 31, 2022.***
 
