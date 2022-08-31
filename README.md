@@ -4,7 +4,7 @@
 
 By utilizing and interacting with HackerTV ("bot" or "service") which is Discord bot, you thereby agree to this privacy policy (this "Privacy Policy"), which is effective as of the date set forth above. Continued use of the bot further signifies your acceptance of this policy. If you do not agree to this Privacy Policy, please do not use bot.
 
-The bot is not affiliated with, maintained or created by Discord Inc.
+HackerTV is not affiliated with, maintained or created by Discord Inc.
 
 ### STORED DATA
 
@@ -43,7 +43,6 @@ For such inquiries, including questions or concerns, you can also contact with t
 ### POLICY UPDATES
 
 Occasionally, this Privacy Policy may be updated and changes will be effective immediately at the time of update. You are encouraged to review this Privacy Policy periodically to stay informed of any changes in the protection of your data. The bot will notify users when the Privacy Policy is updated.
-
 
 ## BOT OWNER CONTACTS
 
